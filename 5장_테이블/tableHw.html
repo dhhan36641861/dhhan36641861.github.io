@@ -1,20 +1,30 @@
 <!DOCTYPE html> <!-- tableHw.html -->
 <html lang="ko">  
   <head><meta charset="utf-8"/><meta name="viewport" content="width=device-width, intial-scale=1"/>
-    <title>HTML5 테이블 테스트 실습</title>
+    <title>HTML5 시간표</title>
+    <style>
+      table, thead, tbody, tfoot, tr, th, td {border: 1px solid black; border-collapse: collapse; }
+      .subject1{ background-color:lightgray; } .subject2 {background-color:#FAF4C0; }
+    </style>
   </head>
   <body>
-    <h1>테이블 태그</h1>
-    <table boder=1>
-      <thead>
-        <tr><th>셀(1,1)</th> <th>셀(1,2)</th> <th>셀(1,3)</th>
-      </thead>
-    <tbody>
-      <tr> <td rowspan="3">셀(2,1)</td> <td>셀(2,1)</td>  <td>셀(2,1)</td> </tr>
-      <tr> <td colspan="2">셀(3,1)</td> </tr>
-      <tr> <td>셀(4,1)</td>  <td>셀(4,2)</td> </tr>
-    </tbody>
-    </table><hr/>
+   <table>
+     <caption>&lt;표 1&gt;시간표</caption>
+     <thead>
+       <tr><th>시간</th> <th>월</th> <th>화</th> <th>수</th> <th>목</th> <th>금</th> <th>토</th> </tr></thead>
+     <tbody>
+       <tr> <td>1교시</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> </tr>
+       <tr> <td>2교시</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> </tr>
+       <tr> <td>3교시</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> </tr>
+       <tr> <td>4교시</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> </tr>
+       <tr> <td>5교시</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> </tr>
+       <tr> <td>6교시</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> </tr>
+       <tr> <td>7교시</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> </tr>
+       <tr> <td>8교시</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> </tr>
+       <tr> <td>9교시</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> </tr>
+     
+     </tbody>
+    </table>
   </body>
 </html>
       
