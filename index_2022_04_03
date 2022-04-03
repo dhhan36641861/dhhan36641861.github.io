@@ -1,0 +1,46 @@
+<!doctype html> <!-- index_2022_04_03.html -->
+<html><head>
+<meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <style>
+    a:link {color:bule; text-decoration:none;} a:visited { color:purple; text-decoration:none;}
+    a:hover {text-decoration:underline;} a:active{color:red; text-decoration:none;}
+  </style>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+  <title>20XX년도 인터넷 수강</title>
+  </head>
+  <body>
+    <header></header>
+    <section>      
+      <p>7장 앵커 </p>
+      <ol type="1">
+      <li><a href="https://www.dhhan36641861.github.io/7장_앵커/anchor1.html" target="_blank">anchor1.html</a></li>
+      <li><a href="https://www.dhhan36641861.github.io/7장_앵커/anchor2.html" target="_blank">anchor2.html</a></li>
+      <li><a href="https://www.dhhan36641861.github.io/7장_앵커/advAnchor.html" target="_blank">advAnchor.html</a></li>
+      <li><a href="https://www.dhhan36641861.github.io/7장_앵커/basicSemantic1.html" target="_blank">basicSemantic1.html</a></li>
+      </ol>
+       <p>8장 이미지</p>
+      <ol type="1">
+       <li><a href="https://www.dhhan36641861.github.io/8장_이미지/ismap.html" target="_blank">ismap.html</a></li>
+       <li><a href="https://www.dhhan36641861.github.io/8장_이미지/basicImage.html" target="_blank">basicImage.html</a></li>
+       <li><a href="https://www.dhhan36641861.github.io/8장_이미지/basicSemantic2.html" target="_blank">basicSemantic2.html</a></li>
+      </ol>
+       <p>9장 이미지맵</p>
+      <ol type="1">
+        <li><a href="https://www.dhhan36641861.github.io/9장_이미지맵/숙제_대전대학교건물/main.html" target="_blank">대전대학교건물main.html(숙제)</a></li>
+        <li><a href="https://www.dhhan36641861.github.io/9장_이미지맵/숙제_세계지도/main.html" target="_blank">세계지도main.html(숙제)</a></li>
+        <li><a href="https://www.dhhan36641861.github.io/9장_이미지맵/imageMap.html" target="_blank">imageMap.html</a></li>
+      </ol>
+        <p>10장 오디오</p>
+      <ol type="1">
+        <li><a href="https://www.dhhan36641861.github.io/10장_오디오/basicAudio.html" target="_blank">basicAudio.html</a></li>
+      </ol>
+        <p>11장 비디오</p>
+      <ol type="1">
+        <li><a href="https://www.dhhan36641861.github.io/11장_비디오/basicVideo.html" target="_blank">basicVideo.html</a></li>
+        <li><a href="https://www.dhhan36641861.github.io/11장_비디오/basicSemantic3.html" target="_blank">basicSemantic3.html</a></li>
+        <li><a href="https://www.dhhan36641861.github.io/11장_비디오/anchor2.html" target="_blank">anchor2.html</a></li>
+      </ol>
+    </section>
+  </body>
+</html>
